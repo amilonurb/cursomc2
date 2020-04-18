@@ -5,4 +5,4 @@ import org.springframework.context.annotation.Profile
 
 @Configuration
 @Profile("test")
-class TestProfile
+class TestProfileConfig
